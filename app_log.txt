@@ -1,0 +1,27 @@
+INFO:     Will watch for changes in these directories: ['/Users/devanands/Desktop/A simple Backend API with Db Integration']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [58049] using StatReload
+INFO:     Started server process [58056]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+Base directory: /Users/devanands/Desktop/A simple Backend API with Db Integration
+Database directory: /Users/devanands/Desktop/A simple Backend API with Db Integration/db
+Database path: /Users/devanands/Desktop/A simple Backend API with Db Integration/db/reminders.db
+INFO:     127.0.0.1:51077 - "POST /reminders HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51082 - "POST /reminders HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'app/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [58056]
+INFO:     Started server process [58443]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  StatReload detected changes in 'app/main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [58443]
+INFO:     Started server process [58694]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
